@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of sun, beach and the ocean](https://www.timos-reisebuero.de/fileadmin/impressions/accessories-beach-blue-feminine.jpg)
