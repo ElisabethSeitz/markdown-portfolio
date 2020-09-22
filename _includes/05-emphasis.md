@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*project management*
+**scrum**
+_hopefully in the end of the year_ __Java__
